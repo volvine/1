@@ -1,3 +1,2 @@
 # mano programa
 # ggs
-# rerere
